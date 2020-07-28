@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413370805404",
+    "firebase_url": "https://journal-f1604.firebaseio.com",
+    "project_id": "journal-f1604",
+    "storage_bucket": "journal-f1604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413370805404:android:c949415d80257326b11159",
+        "android_client_info": {
+          "package_name": "com.sande.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413370805404-aoigooujnroemobro5vja9kjobh4quvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeEZRhUZyu0bO0LucYCMcvfo12ILIYLyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413370805404-aoigooujnroemobro5vja9kjobh4quvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
