@@ -13,6 +13,8 @@ class MyApp extends StatelessWidget {
       title: 'Journal',
       theme: ThemeData(
         primarySwatch: Colors.lightGreen,
+        canvasColor: Colors.lightGreen.shade50,
+        bottomAppBarColor: Colors.lightGreen,
       ),
       home: Home(),
     );
