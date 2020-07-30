@@ -59,4 +59,20 @@ class DbFirestoreService implements DbApi {
         .delete()
         .catchError((error) => print('Error deleting: $error'));
   }
+
+  @override
+  Future<Journal> getJournal(String documentID) {
+    // TODO: implement getJournal
+    throw UnimplementedError();
+  }
+
+  @override
+  void updateJournalWithTransac(String documeurnal) {
+    // TODO: implement updateJournalWithTransaction
+  }
+
+  @override
+  void updateJournalWithTransaction(Journal journal) {
+    // TODO: implement updateJournalWithTransaction
+  }
 }
